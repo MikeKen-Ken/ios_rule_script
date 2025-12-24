@@ -1,0 +1,7 @@
+
+payload:
+  - DOMAIN-SUFFIX,metok.sys.miui.com
+  - DOMAIN-SUFFIX,api.sec.miui.com
+  - DOMAIN-SUFFIX,com.xiaomi.smarthome
+  - DOMAIN-SUFFIX,msftconnecttest.com
+  - DOMAIN-SUFFIX,msftncsi.com
